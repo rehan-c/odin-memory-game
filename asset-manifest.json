@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/rehan-c/odin-memory-game/static/css/main.5086db3d.chunk.css",
+    "main.js": "/rehan-c/odin-memory-game/static/js/main.91714468.chunk.js",
+    "main.js.map": "/rehan-c/odin-memory-game/static/js/main.91714468.chunk.js.map",
+    "runtime-main.js": "/rehan-c/odin-memory-game/static/js/runtime-main.820c526e.js",
+    "runtime-main.js.map": "/rehan-c/odin-memory-game/static/js/runtime-main.820c526e.js.map",
+    "static/js/2.4c1a01eb.chunk.js": "/rehan-c/odin-memory-game/static/js/2.4c1a01eb.chunk.js",
+    "static/js/2.4c1a01eb.chunk.js.map": "/rehan-c/odin-memory-game/static/js/2.4c1a01eb.chunk.js.map",
+    "index.html": "/rehan-c/odin-memory-game/index.html",
+    "static/css/main.5086db3d.chunk.css.map": "/rehan-c/odin-memory-game/static/css/main.5086db3d.chunk.css.map",
+    "static/js/2.4c1a01eb.chunk.js.LICENSE.txt": "/rehan-c/odin-memory-game/static/js/2.4c1a01eb.chunk.js.LICENSE.txt",
+    "static/media/bolsa.a0d54a13.png": "/rehan-c/odin-memory-game/static/media/bolsa.a0d54a13.png",
+    "static/media/chuck.8267f639.png": "/rehan-c/odin-memory-game/static/media/chuck.8267f639.png",
+    "static/media/eladio.d9500e8b.png": "/rehan-c/odin-memory-game/static/media/eladio.d9500e8b.png",
+    "static/media/gustavo.72bc185a.png": "/rehan-c/odin-memory-game/static/media/gustavo.72bc185a.png",
+    "static/media/hector.e0b97c5a.png": "/rehan-c/odin-memory-game/static/media/hector.e0b97c5a.png",
+    "static/media/howard.0fe8b882.png": "/rehan-c/odin-memory-game/static/media/howard.0fe8b882.png",
+    "static/media/huell.3c5f8c8b.png": "/rehan-c/odin-memory-game/static/media/huell.3c5f8c8b.png",
+    "static/media/jimmy.9de95edf.png": "/rehan-c/odin-memory-game/static/media/jimmy.9de95edf.png",
+    "static/media/lalo.f3e60d6c.png": "/rehan-c/odin-memory-game/static/media/lalo.f3e60d6c.png",
+    "static/media/mike.482a4347.png": "/rehan-c/odin-memory-game/static/media/mike.482a4347.png",
+    "static/media/nacho.fe6bfc3d.png": "/rehan-c/odin-memory-game/static/media/nacho.fe6bfc3d.png",
+    "static/media/tuco.d5a10618.png": "/rehan-c/odin-memory-game/static/media/tuco.d5a10618.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.820c526e.js",
+    "static/js/2.4c1a01eb.chunk.js",
+    "static/css/main.5086db3d.chunk.css",
+    "static/js/main.91714468.chunk.js"
+  ]
+}
